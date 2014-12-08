@@ -5,7 +5,6 @@ dolboy'eb
 ebalnik
 ebalo
 ebalom sch'elkat
-gol
 mudack
 opizdenet
 osto'eblo
@@ -52,7 +51,6 @@ svoloch
 trakhat'sya
 trimandoblydskiy pizdoproyob
 ubl'yudok
-uboy
 u'ebitsche
 vafl'a
 vafli lovit

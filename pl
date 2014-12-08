@@ -1,4 +1,3 @@
-burdel
 burdelmama
 chuj
 chujnia
@@ -15,7 +14,6 @@ dziwka
 fiut
 gówno
 gówno prawda
-huj
 jajco
 jajeczko
 jajko

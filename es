@@ -1,6 +1,5 @@
 Asesinato
 asno
-bastardo
 Bollera
 Cabron
 Cabrón
@@ -12,7 +11,6 @@ concha
 Concha de tu madre
 Coño
 Coprofagía
-Culo
 Drogas
 Esperma
 Fiesta de salchichas
@@ -29,7 +27,6 @@ Hijo de puta
 Hijoputa
 Idiota
 Imbécil
-infierno
 Jilipollas
 Kapullo
 Lameculos
@@ -48,7 +45,6 @@ Pedo
 Pervertido
 Pezón
 Pinche
-Pis
 Prostituta
 Puta
 Racista
@@ -62,7 +58,5 @@ Soplapollas
 Tetas grandes
 Tía buena
 Travesti
-Trio
-Verga
 vete a la mierda
 Vulva

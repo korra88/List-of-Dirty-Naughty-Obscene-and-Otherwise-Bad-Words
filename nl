@@ -9,7 +9,6 @@ afwerkplaats
 afzeiken
 afzuigen
 anderhalve man en een paardekop
-anita
 asbak
 aso
 bagger schijten
@@ -55,7 +54,6 @@ flikken
 flikker
 gadverdamme
 galbak
-gat
 gedoogzone
 geilneef
 gesodemieter
@@ -70,10 +68,8 @@ hoer
 hoerenbuurt
 hoerenloper
 hoerig
-hol
 hufter
 huisdealer
-johny
 kanen
 kettingzeugg
 klaarkomen
@@ -84,7 +80,6 @@ klootjesvolk
 klootoog
 klootzak
 kloten
-knor
 kontg
 kontneuken
 krentekakker
@@ -92,14 +87,12 @@ kut
 kuttelikkertje
 kwakkieg
 liefdesgrot
-lul
 lul-de-behanger
 lulhannes
 lummel
 mafketel
 matennaaierg
 matje
-mof
 mutsg
 naaien
 naakt
@@ -124,13 +117,11 @@ penozeg
 piesen
 pijpbekkieg
 pijpen
-pik
 pleurislaaier
 poep
 poepen
 poot
 portiekslet
-pot
 potverdorie
 publiciteitsgeil
 raaskallen
@@ -148,7 +139,6 @@ schijt
 schijten
 schoft
 schuinsmarcheerder
-shit
 slempen
 sletg
 sletterig
