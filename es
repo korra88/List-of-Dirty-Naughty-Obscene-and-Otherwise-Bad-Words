@@ -33,7 +33,6 @@ Maciza
 Macizorra
 maldito
 Mamada
-Marica
 Maricón
 Mariconazo
 martillo
