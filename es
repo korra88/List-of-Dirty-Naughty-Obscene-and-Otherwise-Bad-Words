@@ -1,4 +1,3 @@
-Asesinato
 asno
 Bollera
 Cabron
